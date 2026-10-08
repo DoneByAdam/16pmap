@@ -2,7 +2,7 @@
 
 An interactive map showing where members of the 16p11.2 community live around the world, based on replies to the community's "Where in the world are you from?" post.
 
-- 188 members across 28 countries
+- 192 members across 28 countries
 - Tap a country or circle to see the states or regions mentioned
 - No names are included, only counts per country and region
 
